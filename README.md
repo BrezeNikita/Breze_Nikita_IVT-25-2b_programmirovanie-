@@ -38,9 +38,8 @@ ___тут у нас тоже всё и сразу___
 
 ![img](https://avatars.mds.yandex.net/i?id=6d4cb9d6b5deb8ccf6ac87cdc4ab199f56765b70-5207916-images-thumbs&n=13 "клик") 
 
-''' python 
+``` python 
 for i in range(4):
   if i % 2 == 0:
   print(i)
-'''
-
+```
